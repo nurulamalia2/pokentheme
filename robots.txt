@@ -1,1 +1,4 @@
-404: Not Found
+User-agent: *
+Disallow:
+
+Sitemap: https://poken.tapselkab.go.id/wp-content/theme/sitemap.xml
